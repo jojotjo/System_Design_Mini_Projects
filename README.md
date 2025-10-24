@@ -3,5 +3,6 @@
 This repo is for hands-on practice of system design 
 
 -> webhooks hand on practice (update it for getting see the results of this mini project)
-- simple webhooks using secret key
-- using secret key
+- create a simple webhook
+- adding secret key
+- adding a log file to save history
